@@ -1,3 +1,3 @@
 # Portfolio01
-<h1 align="center"> [Meu portfólio] (https://gustavosilvaz.github.io/Portfolio01/) </h1>
+[Meu portfólio](https://gustavosilvaz.github.io/Portfolio01/)
 Projeto em desenvolvimento.
